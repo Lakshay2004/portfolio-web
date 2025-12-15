@@ -5,7 +5,6 @@ import { motion, useInView } from 'framer-motion';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectCoverflow } from 'swiper/modules';
 import { HiExternalLink, HiCode } from 'react-icons/hi';
-import Image from 'next/image';
 
 // Import Swiper styles
 import 'swiper/css';
